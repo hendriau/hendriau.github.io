@@ -7,6 +7,8 @@
 # serve_site()
 # build_site()
 
+publishDir = "docs"
+
 # Title of your site
 title = "The Hendricks Team" 
 
