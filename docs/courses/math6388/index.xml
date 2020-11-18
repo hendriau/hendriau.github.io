@@ -12,15 +12,5 @@
       <link>/courses/math6388/</link>
     </image>
     
-    <item>
-      <title>Statistical and Machine Learning (MATH6388)</title>
-      <link>/courses/math6388/_index-3/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/courses/math6388/_index-3/</guid>
-      <description>&lt;p&gt;This course focuses on the statistical foundation and theory of supervised and unsupervised machine learning methods. Additional topics and skills covered are model assessment and selection, how and why to use a particular method, how to validate and justify the results, and real data applications.&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

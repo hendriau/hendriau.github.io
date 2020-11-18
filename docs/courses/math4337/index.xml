@@ -12,15 +12,5 @@
       <link>/courses/math4337/</link>
     </image>
     
-    <item>
-      <title>Intro to Statistical and Machine Learning (MATH4337/5337)</title>
-      <link>/courses/math4337/_index-2/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/courses/math4337/_index-2/</guid>
-      <description>&lt;p&gt;This course covers the application of statistical and machine learning methods. Both supervised and unsupervised methods are covered. Emphasis is placed on properly applying, training, and assessing models, as well as estimating model prediction error. Course work is primarily project based.&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
