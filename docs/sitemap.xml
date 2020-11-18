@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/math4337/_index-2/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/math4337/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/math6388/_index-3/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,6 +94,11 @@
   
   <url>
     <loc>/authors/yinfeiwu/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -272,11 +287,19 @@
   </url>
   
   <url>
+    <loc>/authors/alexronco/_index-3/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/anaventilari/</loc>
   </url>
   
   <url>
     <loc>/authors/jessicamurphy/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kaichaochang/_index-2/</loc>
   </url>
   
   <url>

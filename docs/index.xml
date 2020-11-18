@@ -13,6 +13,26 @@
     </image>
     
     <item>
+      <title>Intro to Statistical and Machine Learning (MATH4337/5337)</title>
+      <link>/courses/math4337/_index-2/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/courses/math4337/_index-2/</guid>
+      <description>&lt;p&gt;This course covers the application of statistical and machine learning methods. Both supervised and unsupervised methods are covered. Emphasis is placed on properly applying, training, and assessing models, as well as estimating model prediction error. Course work is primarily project based.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical and Machine Learning (MATH6388)</title>
+      <link>/courses/math6388/_index-3/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/courses/math6388/_index-3/</guid>
+      <description>&lt;p&gt;This course focuses on the statistical foundation and theory of supervised and unsupervised machine learning methods. Additional topics and skills covered are model assessment and selection, how and why to use a particular method, how to validate and justify the results, and real data applications.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -732,6 +752,22 @@ Figure 1: A fancy pie chart.
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/alexronco/_index-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/alexronco/_index-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/kaichaochang/_index-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/kaichaochang/_index-2/</guid>
+      <description></description>
     </item>
     
   </channel>
