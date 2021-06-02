@@ -14,7 +14,7 @@ organizations:
 - name: University of Colorado Denver
 - name: jordan.hall@ucdenver.edu
   url: ""
-role: PhD Student in Applied Mathematics
+role: PhD-Applied Mathematics (2021)
 ##social:
 #- icon: envelope
 #  icon_pack: fas
@@ -30,7 +30,7 @@ role: PhD Student in Applied Mathematics
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Graduate Research Assistants
+- Alumni
 ---
 
 

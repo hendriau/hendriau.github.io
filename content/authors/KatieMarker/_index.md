@@ -14,7 +14,7 @@ organizations:
 - name: University of Colorado Anschutz
 - name: katie.marker@cuanschutz.edu
   url: ""
-role: PhD Student in Human Medical Genetics and Genomics
+role: Co-mentor Summix Project; PhD Student in Human Medical Genetics and Genomics
 ##social:
 #- icon: envelope
 #  icon_pack: fas
