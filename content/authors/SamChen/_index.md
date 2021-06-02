@@ -30,7 +30,7 @@ role: BS Student in Mathematics
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Undergraduate Research Assistants
+- Alumni
 ---
 
 
