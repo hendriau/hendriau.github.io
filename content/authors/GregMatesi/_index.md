@@ -31,7 +31,7 @@ role: BS Math / MS Student in Statistics
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Graduate Research Assistants
+- Alumni
 ---
 
 

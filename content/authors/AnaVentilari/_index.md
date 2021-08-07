@@ -9,12 +9,12 @@ authors:
 #- Statistics
 #- Genetics & Genomics
 #- Data Science for All
-name: Abby Craig
+name: Ana Ventilari
 organizations:
 - name: University of Colorado Denver
-- name: abby.craig@ucdenver.edu
+- name: anaclaudia.ventilari@ucdenver.edu
   url: ""
-role: PhD Student in Applied Mathematics
+role: 
 ##social:
 #- icon: envelope
 #  icon_pack: fas
@@ -30,7 +30,7 @@ role: PhD Student in Applied Mathematics
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Graduate Research Assistants
+
 ---
 
 

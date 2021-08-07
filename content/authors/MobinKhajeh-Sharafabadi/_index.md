@@ -14,7 +14,7 @@ organizations:
 - name: University of Colorado Denver
 - name: mobin.khajeh-sharafabadi@ucdenver.edu
   url: ""
-role: BS Student in Biochemistry, Minor in Math
+role: BS in Biochemistry, Minor in Math (2021)
 ##social:
 #- icon: envelope
 #  icon_pack: fas
@@ -30,7 +30,7 @@ role: BS Student in Biochemistry, Minor in Math
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Undergraduate Research Assistants
+- Alumni
 ---
 
 

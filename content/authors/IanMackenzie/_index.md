@@ -11,10 +11,11 @@ authors:
 #- Data Science for All
 name: Ian Arriaga MacKenzie
 organizations:
-- name: University of Colorado Denver
-- name: ian.arriagamackenzie@ucdenver.edu
+- name: PhD student in Biostatistics
+- name: University of Colorado Anschutz Medical Campus
+- name: ian.arriagamackenzie@cuanschutz.edu
   url: ""
-role: BS Math / MS Stats Student
+role: BS Math / MS Stats (2021)
 ##social:
 #- icon: envelope
 #  icon_pack: fas
@@ -30,7 +31,7 @@ role: BS Math / MS Stats Student
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Graduate Research Assistants
+- Alumni
 ---
 
 
