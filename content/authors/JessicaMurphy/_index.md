@@ -14,7 +14,7 @@ organizations:
 - name: University of Colorado Denver
 - name: jessica.murphy@ucdenver.edu
   url: ""
-role: MS Student in Statistics
+role: PhD Student in Biostatistics
 ##social:
 #- icon: envelope
 #  icon_pack: fas
