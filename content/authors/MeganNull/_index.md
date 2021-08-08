@@ -29,7 +29,7 @@ role: PhD-Applied Mathematics (2020)
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Alumni
+- Post-Doctoral Fellows
 ---
 
 
