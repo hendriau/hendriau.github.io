@@ -5,12 +5,20 @@
     <link>/tags/source-themes/</link>
       <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Source Themes</title>
       <link>/tags/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Inside AJHG: A Chat with Audrey Hendricks</title>
+      <link>/publication/ashg_chat/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ashg_chat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2020 Genomic Innovator Awards</title>

@@ -5,12 +5,20 @@
     <link>/tags/genetics/</link>
       <atom:link href="/tags/genetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Genetics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Genetics</title>
       <link>/tags/genetics/</link>
     </image>
+    
+    <item>
+      <title>Summix: A method for detecting and adjusting for population structure in genetic summary data</title>
+      <link>/publication/summix/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/summix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GSP</title>

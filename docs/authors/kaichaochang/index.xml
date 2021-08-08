@@ -5,21 +5,12 @@
     <link>/authors/kaichaochang/</link>
       <atom:link href="/authors/kaichaochang/index.xml" rel="self" type="application/rss+xml" />
     <description>The Hendricks Team</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>The Hendricks Team</title>
       <link>/authors/kaichaochang/</link>
     </image>
-    
-    <item>
-      <title>Summix</title>
-      <link>/project/summix/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/summix/</guid>
-      <description>&lt;p&gt;Increasing the utility of publicly available genetic summary data, especially for diverse or understudied ancestral populations.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
