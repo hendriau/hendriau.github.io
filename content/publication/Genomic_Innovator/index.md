@@ -5,7 +5,7 @@ authors:
 ##- 
 date: "2020-09-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: https://www.genome.gov/news/news-release/NHGRI-announces-2020-genomic-innovator-awards'
   focal_point: ""

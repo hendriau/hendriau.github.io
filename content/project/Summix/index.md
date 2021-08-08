@@ -14,18 +14,19 @@ authors:
 - IanMackenzie
 - GregMatesi
 - SamChen
-- KatieMarker
 - AlexRonco
+- KatieMarker
 - JordanHall
-- MobinKhajeh-Sharafabadi
-- KaichaoChang
 - RyanScherenberg
+- MobinKhajeh-Sharafabadi
 - YinfeiWu
+- "Chris Gignoux"
 - MeganNull
 - admin
 
 title: Summix
-url_project: "https://ianarrmack.shinyapps.io/AncestryEstimation-App/"
+url_project: "https://www.cell.com/ajhg/fulltext/S0002-9297(21)00221-4"
+
 ---
 
 Increasing the utility of publicly available genetic summary data, especially for diverse or understudied ancestral populations.
