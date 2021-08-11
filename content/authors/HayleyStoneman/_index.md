@@ -9,27 +9,28 @@ authors:
 #- Statistics
 #- Genetics & Genomics
 #- Data Science for All
-name: Megan Null
+name: Hayley Stoneman
 organizations:
-- name: Statistics Visiting Assistant Professor, College of Idaho
+- name: University of Colorado Anschutz
+- name: hayley.stoneman@cuanschutz.edu
   url: ""
-role: PhD-Applied Mathematics (2020)
+role: PhD Student in Human Medical Genetics and Genomics
 ##social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'
 #- icon: twitter
 #  icon_pack: fab
-#  link: 
+#  link: https://twitter.com/hendricks_ae
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: 
+#  link: https://scholar.google.com/citations?hl=en&user=hWak-5YAAAAJ&view_op=list_works
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Fellows
+- Graduate Research Assistants
 ---
 
 
