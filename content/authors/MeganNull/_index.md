@@ -11,7 +11,8 @@ authors:
 #- Data Science for All
 name: Megan Null
 organizations:
-- name: Statistics Visiting Assistant Professor, College of Idaho
+- name: Statistics Assistant Professor, College of Idaho
+- name: Summer Fellow, University of Colorado Denver
   url: ""
 role: PhD-Applied Mathematics (2020)
 ##social:
