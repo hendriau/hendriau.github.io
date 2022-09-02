@@ -27,7 +27,7 @@ title: "Opportunities and challenges for the use of common controls in sequencin
 
 ##url_code: ""
 ##url_dataset: ""
-##url_pdf: pdf/Summix.pdf
+##url_pdf: 
 ##url_poster: ""
 ##url_project: ""
 ##url_slides: ""
