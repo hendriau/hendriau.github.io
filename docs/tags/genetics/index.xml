@@ -14,8 +14,16 @@
     
     <item>
       <title>Opportunities and challenges for the use of common controls in sequencing studies</title>
-      <link>/publication/summix/</link>
+      <link>/publication/common_controls/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/common_controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summix: A method for detecting and adjusting for population structure in genetic summary data</title>
+      <link>/publication/summix/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       <guid>/publication/summix/</guid>
       <description></description>
     </item>

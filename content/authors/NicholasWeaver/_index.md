@@ -3,11 +3,6 @@ authors:
 
 
 
-email: audrey.hendricks@ucdenver.edu
-##interests:
-#- Statistics2
-#- Genetics & Genomics
-#- Data Science for All
 name: Nicholas Weaver
 organizations:
 - name: Senior Lecturer of Mathematics, Messiah University
