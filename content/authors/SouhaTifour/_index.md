@@ -30,7 +30,7 @@ role: 5yr BS Mathematics, MS Statistics Student
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Undergraduate Research Assistants
+- Graduate Research Assistants
 ---
 Hello! My name is Souha. I am an undergraduate student in the Department of Mathematical and Statistical Sciences at CU Denver (5 YEAR BS IN MATHEMATICS / MS IN STATISTICSprogram) and I am minoring in Business. I have chosen Mathematics as a major strongly believing that Math is behind all sciences. Then, when I studied Statistics, I started to see how Math can be applied in the real world and I fall in love with it. Besides loving statistics, I adore fashion designing and drawing and I am thinking to follow that passion as well in the future.
 Thank you!! 

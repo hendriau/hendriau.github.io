@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Opportunities and challenges for the use of common controls in sequencing studies</title>
+      <link>/publication/summix/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/summix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ian Arriaga MacKenzie wins 2021 AJHG Cotterman Award!</title>
@@ -25,14 +33,6 @@
       <link>/publication/ashg_chat/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/publication/ashg_chat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Summix: A method for detecting and adjusting for population structure in genetic summary data</title>
-      <link>/publication/summix/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/summix/</guid>
       <description></description>
     </item>
     
