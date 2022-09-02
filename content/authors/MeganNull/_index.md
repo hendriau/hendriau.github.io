@@ -14,7 +14,7 @@ organizations:
 - name: Statistics Assistant Professor, College of Idaho
 - name: Summer Fellow, University of Colorado Denver
   url: ""
-role: PhD-Applied Mathematics (2020)
+role: PhD in Applied Mathematics emphasis in Statistics (2020)
 ##social:
 #- icon: envelope
 #  icon_pack: fas
