@@ -18,6 +18,7 @@ subtitle = ""
                  "Graduate Research Assistants",
                  "Fellows",
                  "Summer Research Fellows",
+                "Professional Research Assistants",
                  "Admin",
                  "Collaborators",
                  "Alumni"]

@@ -3,7 +3,7 @@ authors:
 
 
 
-name: Sakaiza Rasolofomanana Rajery
+name: Nicolette Vere
 organizations:
 - name: Department of Bioinformatics (DBMI)
 - name: Anschutz Medical Campus
@@ -29,8 +29,3 @@ superuser: true
 user_groups:
 - Professional Research Assistants
 ---
-My name is Sakaiza, I did my undergraduate studies at Smith College in Statistical and Data Sciences (SDS) and chemistry. I love any combination of numbers and health sciences. I am currently involved in the nutrition projects in the Hendricks team.
-
-I come from Antananarivo, Madagascar. In my free time, I like singing, playing guitar, dancing, painting (Anything Artsy ... I am in!) and my newest hobby is  sleeping. 
-
-

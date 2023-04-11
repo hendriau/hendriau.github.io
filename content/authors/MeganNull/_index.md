@@ -30,7 +30,7 @@ role: PhD in Applied Mathematics emphasis in Statistics (2020)
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Fellows
+- Alumni
 ---
 
 
