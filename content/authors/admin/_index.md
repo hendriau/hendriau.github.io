@@ -30,7 +30,9 @@ interests:
 - Data Science for All
 name: Audrey E. Hendricks
 organizations:
-- name: University of Colorado Denver
+- name: University of Colorado Denver | Anschutz Medical Campus
+- name: Dept. of Biomedical Informatics
+  url: "https://medschool.cuanschutz.edu/dbmi" 
 - name: Dept. of Mathematical and Statistical Sciences
   url: "https://clas.ucdenver.edu/mathematical-and-statistical-sciences/" 
 - name: Dept. of Biostatistics and Informatics
