@@ -7,7 +7,7 @@ name: Makena (Max) Avichouser
 organizations:
 - name: Department of Mathematical and Statistical Sciences
   url: ""
-role: Undergraduate Research Assistant
+role: BS-Mathematics (2023)
 ##project:
 ##- Foodomics
 social:
@@ -25,7 +25,7 @@ social:
 #   link: https://github.com/nweaver111
 superuser: true
 user_groups:
-- Undergraduate Research Assistants
+- Alumni
 ---
 
 

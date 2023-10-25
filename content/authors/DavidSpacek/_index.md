@@ -7,7 +7,7 @@ name: David Spacek
 organizations:
 - name: Department of Computer Science
   url: ""
-role: Undergraduate Research Assistant
+role: BS-Computer Science (expected 2024)
 ##project:
 ##- Foodomics
 social:
@@ -25,7 +25,7 @@ social:
 #   link: https://github.com/nweaver111
 superuser: true
 user_groups:
-- Undergraduate Research Assistants
+- Alumni
 ---
 
 

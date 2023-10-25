@@ -32,7 +32,7 @@ social:
 ##  link: https://github.com/nweaver111
 superuser: true
 user_groups:
-- Graduate Research Assistants
+- Professional Research Assistants
 ---
 Hi all, my name is Adelle and I am a graduate student in the MS in Statistics program at CU Denver. I have a previously earned BS in Biochemistry and it has been exciting combining mathematical and genetic concepts while working on the Summix project in Dr. Hendricks lab. 
 
