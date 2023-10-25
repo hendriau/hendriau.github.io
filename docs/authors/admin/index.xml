@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>The Hendricks Team</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>The Hendricks Team</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/publication/grand_rounds/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/grand_rounds/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Foodomics</title>
