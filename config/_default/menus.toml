@@ -46,7 +46,12 @@
     name = "CV"
     url = "files/cv.pdf"
     weight = 80
+    
+##<<<<<<< Updated upstream
 
+##=======
+    
+##>>>>>>> Stashed changes
  [[main]]
     name = "Lab Expectations"
     url = "files/Hendricks Lab Expectations_Fall2022.pdf"

@@ -38,22 +38,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/genetics/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,12 +48,27 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/genetics/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/common_controls/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url>
   

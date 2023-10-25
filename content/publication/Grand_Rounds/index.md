@@ -10,20 +10,19 @@ image:
 ##caption: 'Image credit: ##[**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
+##event: '*University of Washington Laboratory Medicine Grand Rounds*'
+##event_url: "https://dlmp.uw.edu/events?trumbaEmbed=view%3Devent%26eventid%3D169450784"
 links:
-- name: Article
+- name: Announcement
   url: "https://dlmp.uw.edu/events?trumbaEmbed=view%3Devent%26eventid%3D169450784"
+ 
 projects: 
 - internal-project
-publication: '*University of Washington Laboratory Medicine Grand Rounds*'
-publication_short: ""
-publication_types:
-- "2"
+
 publishDate: "2023-09-27T00:00:00Z"
 ##slides: example
 summary: 
-tags: 
-- Genetics
+tags: []
 
 title: ""
 
@@ -33,7 +32,7 @@ title: ""
 ##url_poster: ""
 ##url_project: ""
 ##url_slides: ""
-url_source: "https://dlmp.uw.edu/events?trumbaEmbed=view%3Devent%26eventid%3D169450784"
+##url_source: "https://dlmp.uw.edu/events?trumbaEmbed=view%3Devent%26eventid%3D169450784"
 url_video: "https://youtu.be/BW1_VGwxuOU?feature=shared"
 ---
 
