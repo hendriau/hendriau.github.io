@@ -8,11 +8,11 @@ organizations:
 - name: Research Assistant, University of Colorado Denver
 - name: kelsey.scribnertrout@ucdenver.edu
   url: ""
-role: BS Student in Mathematics (2022)
+role: BS in Mathematics (2022)
 ##project:
 ##- Summix
 user_groups: 
-- Professional Research Assistants
+- Alumni
 ---
 Hi! My name is Nikole, I am an undergraduate at University of Colorado Denver in Mathematics with a dual concentration in probability/statistics and data science, graduating Fall 2022. Prior to pursuing mathematics, I completed most of an undergraduate degree in writing. I love using math, data science, and my experience with writing to make important but complex topics accessible to anyone.
 
