@@ -14,7 +14,7 @@ organizations:
 - name: University of Colorado Denver
 - name: SAGE.SIGLER@UCDENVER.EDU
   url: ""
-role: MS Student in Statistics
+role: Professional Research Assistant
 ##project:
 ##- Foodomics
 social:
@@ -34,5 +34,5 @@ superuser: true
 user_groups:
 - Professional Research Assistants
 ---
-Greetings! My name is Sage. I am a graduate student in the Department of Mathematical and Statistical Sciences at CU Denver. I received my BS in Mathematics in 2020 and am currently pursuing my Master's in Statistics. I am from the beautiful city of New Orleans and love any excuse to put on a costume. My other passions include Irish dance (which I've been doing for 13 years now!), bouldering, art, card games, and reading.
+Greetings! My name is Sage. I received my MS in Statistics from CU Denver and my BS in Mathematics with a minor in Art from the University of New Orleans. I am from the beautiful city of New Orleans and love any excuse to put on a costume. Aside from biostatistical research, my other passions include Irish dance, art, card games, and reading.
 
