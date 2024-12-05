@@ -33,4 +33,9 @@ user_groups:
 - Graduate Research Assistants
 ---
 
+Hi! I'm Hayley. I defended my PhD in Human Medical Genetics and Genomics in October 2024 after ~4 years with the Hendricks Team. I have gained incredible experience throughout my time with this team in applied biostatistics and method development. 
+
+I previously received my BS in Genetics and Genomics from the University of Wisconsin-Madison with minors in Computer Science and Integrated Studies of Science, Engineering, and Society. 
+
+Outside of work of love to snowboard, I dabble in skiing, I rock climb pretty frequently, and I'm an avid cyclist (tandem road and tandem mountain!).
 
