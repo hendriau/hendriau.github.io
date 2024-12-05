@@ -29,6 +29,6 @@ superuser: true
 user_groups:
 - Professional Research Assistants
 ---
+Hi all, my name is Hugo. I previously earned a BS in Computer Engineering with minors in Computer Science and Math. Currently, I am bolstering my bioinformatics research experience in the Hendricks Lab to begin a Masters in Statistics at CU Denver in Fall 2025. I love learning and hope to continue developing my research skills under the Hendricks team.
 
-
-
+Outside of research I enjoy playing soccer, live music, and the outdoors.
