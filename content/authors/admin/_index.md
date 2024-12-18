@@ -52,7 +52,7 @@ social:
   link: '#contact'
 - icon: cloud
   icon_pack: fas
-  link: https://bsky.app/profile/hendricksae.bsky.social
+  link: https://bsky.app/profile/audreyhendricks.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/audrey-e-hendricks/
