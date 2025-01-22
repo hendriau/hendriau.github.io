@@ -1,7 +1,7 @@
 ---
 authors: 
 - admin
-bio: I am committed to increasing representation in who completes research, what questions are asked, and for whom the research benefits. My research interests include developing and applying statistical/machine learning methods across genomics and biomedical informatics to better understand and inform health and disease.
+bio: I am committed to increasing opportunities for all people, especially those who have had limited resources and exposure to studying statistics and science. I am motivated to ask novel research questions and ensuring the research is robust and accurate. My research interests include developing and applying statistical/machine learning methods across genomics and biomedical informatics to better understand and inform health and disease.
 
 ##education:
 ##  courses:
@@ -67,6 +67,6 @@ user_groups:
 - Principal Investigator
 ---
 
-The Hendricks Team is committed to increasing and supporting representation in all areas of science, including who completes the research, what questions are asked, and for whom the research is useful. The Team works at the intersection of biomedical research and statistical/machine learning method development with current projects including the development of methods to increase the utility and equity of publicly available genetic resources, identifying the biological mechanisms of healthy diets, and elucidating the genomic underpinnings of conditions and traits. We follow best practices of reproducibility and robust science by creating open source, well documented software and releasing all data and code used for our studies. Our team is highly collaborative working with people from a variety of backgrounds and education levels. We are always learning, improving, and pushing ourselves and others to be our best. In doing so, we produce first-class research for the broader community and train the next generation of biomedical scientists.
+The Hendricks Team is committed to increasing opportunities for all people, especially those who have had limited resources and exposure to studying statistics and science. We are motivated to ask novel research questions and ensure the research is robust and accurate. The Team works at the intersection of biomedical research and statistical/machine learning method development with current projects including the development of methods to increase the utility and equity of publicly available genetic resources, identifying the biological mechanisms of healthy diets, and elucidating the genomic underpinnings of conditions and traits. We follow best practices of reproducibility and robust science by creating open source, well documented software and releasing all data and code used for our studies. Our team is highly collaborative working with people from a variety of backgrounds and education levels. We are always learning, improving, and pushing ourselves and others to be our best. In doing so, we produce first-class research for the broader community and train the next generation of biomedical scientists.
 
 
