@@ -5,12 +5,36 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Researchers at the University of Colorado Develop Summix2 to Improve Understanding of how Genetics Impact Health and Disease</title>
+      <link>/publication/summix2/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/summix2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audrey Hendricks Receives 2024 Boston University Biostatistics Distinguished Alumni Award</title>
+      <link>/publication/distinguished-alumni/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/distinguished-alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Hendricks Receives Ludeman Center Health Equity Award seed grant for Intersectional Research in Women&#39;s Health</title>
+      <link>/publication/ludemancenter/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/ludemancenter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

@@ -15,6 +15,9 @@ tags:
 - "Nutrition"
 authors: 
 - NicholasWeaver
+- AdellePrice
+- SakaizaRasolofomanana-Rajery
+- MobinKhajeh-Sharafabadi
 - admin
 title: Foodomics
 url_code: ""

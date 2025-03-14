@@ -5,12 +5,21 @@
     <link>/authors/jackstaples/</link>
       <atom:link href="/authors/jackstaples/index.xml" rel="self" type="application/rss+xml" />
     <description>The Hendricks Team</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>The Hendricks Team</title>
       <link>/authors/jackstaples/</link>
     </image>
+    
+    <item>
+      <title>Context Matters</title>
+      <link>/project/context-matters/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/project/context-matters/</guid>
+      <description>&lt;p&gt;Genetics, such as polygenic scores (PGS), can elucidate underlying biology and inform disease prediction, allowing for targeted screening of men women at risk in midlife. However, differences in PGS by individual characteristics (e.g., age, sex, menopause, genetic ancestry), may result in differential prediction performance and inferior precision medicine. Here, we are evaluating how genetic risk varies across a variety of individual and population contexts.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

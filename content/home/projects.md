@@ -36,7 +36,11 @@ subtitle = ""
 [[content.filter_button]]
     name = "Methods & Software"
     tag = "Software"
-  
+
+  [[content.filter_button]]
+    name = "Women's Health"
+    tag = "Womenshealth"
+      
   [[content.filter_button]]
     name = "More"
     tag = "More"

@@ -21,8 +21,12 @@ authors:
 - admin
 
 title: Summix2
-url_project: "https://www.biorxiv.org/content/10.1101/2024.01.29.577805v3"
+links:
+- name: Article
+  url: https://news.cuanschutz.edu/dbmi/summix-2
+- name: Software
+  url: https://www.bioconductor.org/packages/release/bioc/html/Summix.html 
 
 ---
 
-Here, we present Summix2, a comprehensive set of methods and software based on a computationally efficient mixture model to estimate and adjust for substructure in genetic summary data. In extensive simulations and application to public data, Summix2 characterizes finer-scale population structure, identifies ascertainment bias, and identifies potential regions of selection due to local substructure deviation. Summix2 increases the robust use of diverse publicly available summary data resulting in improved and more equitable research.
+Summix2 is a comprehensive set of methods and software based on a computationally efficient mixture model to estimate and adjust for substructure in genetic summary data. In extensive simulations and application to public data, Summix2 characterizes finer-scale population structure, identifies ascertainment bias, and identifies potential regions of selection due to local substructure deviation. Summix2 increases the robust use of diverse publicly available summary data resulting in improved and more accurate research for all people and populations.

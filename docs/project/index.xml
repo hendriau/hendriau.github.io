@@ -13,11 +13,29 @@
     </image>
     
     <item>
+      <title>Case-Control Allele Frequency Estimation (CCAFE)</title>
+      <link>/project/ccafe/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/project/ccafe/</guid>
+      <description>&lt;p&gt;Methods involving summary statistics in genetics can be quite powerful but can be limited in utility. For instance, many post-hoc analyses of disease studies require case and control allele frequencies (AFs), which are not always published. We present two frameworks to derive case and control AFs from GWAS summary statistics using the odds ratio, case and control sample sizes, and either the total (case and control aggregated) AF or standard error (SE). In simulations and real data, derivations of case and controls AFs using total AF is highly accurate across all settings (e.g., minor AF, condition prevalence). Conversely, derivations using SE underestimate common variant AFs (e.g. minor allele frequency &amp;gt;0.3) in the presence of covariates. We develop an adjustment using gnomAD AFs as a proxy for true AFs, which reduces the bias when using SE. While estimating case and control AFs using the total AF is preferred due to its high accuracy, estimating from the SE can be used more broadly since SE can be derived from p-values and beta estimates, which are commonly provided. The methods provided here expand the utility of publicly available genetic summary statistics and promote the reusability of genomic data. The R package CCAFE, with implementations of both methods, is freely available on Bioconductor and GitHub.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context Matters</title>
+      <link>/project/context-matters/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/project/context-matters/</guid>
+      <description>&lt;p&gt;Genetics, such as polygenic scores (PGS), can elucidate underlying biology and inform disease prediction, allowing for targeted screening of men women at risk in midlife. However, differences in PGS by individual characteristics (e.g., age, sex, menopause, genetic ancestry), may result in differential prediction performance and inferior precision medicine. Here, we are evaluating how genetic risk varies across a variety of individual and population contexts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Summix2</title>
       <link>/project/summix2/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/project/summix2/</guid>
-      <description>&lt;p&gt;Here, we present Summix2, a comprehensive set of methods and software based on a computationally efficient mixture model to estimate and adjust for substructure in genetic summary data. In extensive simulations and application to public data, Summix2 characterizes finer-scale population structure, identifies ascertainment bias, and identifies potential regions of selection due to local substructure deviation. Summix2 increases the robust use of diverse publicly available summary data resulting in improved and more equitable research.&lt;/p&gt;
+      <description>&lt;p&gt;Summix2 is a comprehensive set of methods and software based on a computationally efficient mixture model to estimate and adjust for substructure in genetic summary data. In extensive simulations and application to public data, Summix2 characterizes finer-scale population structure, identifies ascertainment bias, and identifies potential regions of selection due to local substructure deviation. Summix2 increases the robust use of diverse publicly available summary data resulting in improved and more accurate research for all people and populations.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,6 +54,15 @@
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/project/gsp/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>MINT</title>
+      <link>/project/mint/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mint/</guid>
+      <description>&lt;p&gt;Led by Dr. Minghua Tang Lillian Fountain Smith Endowed Chair of the Department of Food Science and Human Nutrition at Colorado State University, the MINT study is a large randomized control nutrition intervention study to assess the impact of the foods from which infants receive protein. &lt;a href=&#34;https://chhs.source.colostate.edu/minghua-tang-expanding-pediatric-nutrition-research-at-csu/&#34;&gt;https://chhs.source.colostate.edu/minghua-tang-expanding-pediatric-nutrition-research-at-csu/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -5,7 +5,7 @@
     <link>/authors/souhatifour/</link>
       <atom:link href="/authors/souhatifour/index.xml" rel="self" type="application/rss+xml" />
     <description>The Hendricks Team</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>The Hendricks Team</title>
@@ -13,11 +13,19 @@
     </image>
     
     <item>
+      <title>Researchers at the University of Colorado Develop Summix2 to Improve Understanding of how Genetics Impact Health and Disease</title>
+      <link>/publication/summix2/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/summix2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Summix2</title>
       <link>/project/summix2/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/project/summix2/</guid>
-      <description>&lt;p&gt;Here, we present Summix2, a comprehensive set of methods and software based on a computationally efficient mixture model to estimate and adjust for substructure in genetic summary data. In extensive simulations and application to public data, Summix2 characterizes finer-scale population structure, identifies ascertainment bias, and identifies potential regions of selection due to local substructure deviation. Summix2 increases the robust use of diverse publicly available summary data resulting in improved and more equitable research.&lt;/p&gt;
+      <description>&lt;p&gt;Summix2 is a comprehensive set of methods and software based on a computationally efficient mixture model to estimate and adjust for substructure in genetic summary data. In extensive simulations and application to public data, Summix2 characterizes finer-scale population structure, identifies ascertainment bias, and identifies potential regions of selection due to local substructure deviation. Summix2 increases the robust use of diverse publicly available summary data resulting in improved and more accurate research for all people and populations.&lt;/p&gt;
 </description>
     </item>
     
