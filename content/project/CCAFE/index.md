@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-##summary: Characterizing substructure via mixture modeling in large-scale genetic summary statistics
+summary: Estimating Case and Control Allele Frequencies from GWAS Summary Statistics
 # website using 
 tags:
 - Genetics
