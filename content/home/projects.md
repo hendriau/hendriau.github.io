@@ -40,6 +40,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Women's Health"
     tag = "Womenshealth"
+    
+[[content.filter_button]]
+    name = "Training Programs"
+    tag = "Training"
       
   [[content.filter_button]]
     name = "More"

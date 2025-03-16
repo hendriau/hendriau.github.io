@@ -8,11 +8,13 @@ doi: ""
 featured: true
 image: 
 ##  caption: 'Image credit: Inside AJHG: A Chat with Audrey Hendricks'
- ## focal_point: ""
+  focal_point: smart
   preview_only: true
 links: 
 - name: Twitter
   url: https://twitter.com/hendricks_ae/status/1435611279788441609?s=20/
+- name: ASHG
+  url: https://www.ashg.org/membership/awards/2021-awardees/
 projects:
 - internal-project
 ##publication: In *Source Themes Conference*

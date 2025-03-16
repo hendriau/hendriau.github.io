@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hsiu-Ping Liu | The Hendricks Team</title>
+    <link>/authors/hsiu-ping-liu/</link>
+      <atom:link href="/authors/hsiu-ping-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hsiu-Ping Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hsiu-Ping Liu</title>
+      <link>/authors/hsiu-ping-liu/</link>
+    </image>
+    
+    <item>
+      <title>Pathways in Genomic Research Experiences for Undergraduates (PATH-GREU)</title>
+      <link>/project/pathgreu/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/project/pathgreu/</guid>
+      <description>&lt;p&gt;PATH-GREU is a two-year program to introduce and train undergraduate students in genomics research to meet the increasing demands of genomics workforce.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

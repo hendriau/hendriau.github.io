@@ -5,7 +5,7 @@ authors:
 ##- 
 date: "2021-07-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: Inside AJHG: A Chat with Audrey Hendricks'
   focal_point: ""
