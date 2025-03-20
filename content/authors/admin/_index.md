@@ -23,9 +23,9 @@ bio: I am committed to increasing opportunities for all people to learn about st
 ##   - course: BA in Music
 ##     institution: University of Colorado
 ##     year: 2012
-email: audrey.hendricks@ucdenver.edu
+email: audrey.hendricks@cuanschutz.edu
 interests:
-- Statistics
+- Statistics, ML, AI
 - Genetics & Genomics
 - Data Science for All
 name: Audrey E. Hendricks
