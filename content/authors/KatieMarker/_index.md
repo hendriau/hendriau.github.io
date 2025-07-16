@@ -30,7 +30,7 @@ role: Co-mentor Summix Project; PhD Student in Human Medical Genetics and Genomi
 #  link: https://github.com/hendriau
 superuser: false
 user_groups:
-- Graduate Research Assistants
+- Alumni
 ---
 
 
